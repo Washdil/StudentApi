@@ -20,3 +20,13 @@ A simple REST API built using Node.js, Express.js, and MongoDB (local).
 
 ```bash
 npm install
+
+
+---
+
+# 🚀 STEP 2 — Initialize Git
+
+Open terminal in project folder:
+
+```bash
+git initg
